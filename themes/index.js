@@ -314,7 +314,7 @@ const themes = {
   },
   noctis_minimus: {
     title_color: "d3b692",
-    icon_color: "72b7c0",
+    icon_color:"72b7c0",
     text_color: "c5cdd3",
     bg_color: "1b2932",
   },
